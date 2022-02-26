@@ -10,3 +10,4 @@ The first graph, Rplot acousticness-speechiness-trackalbumname, compares the spe
 
 28-6-2022
 I made a storyboard in rMarkdown as you can see in the two screenshots I added. I also used compmus to make two chromagrams. One with the Low Mist track from the albumm "Seven days Walking day 1" and one with the same Low Mist track and the Low Mist track from the "day 2" album. I haven't figured out how to include these chromagrams in the storyboard. The same is with the plots from last week. I did make a new Github page, but I couldn't connect it with my story board, so every advice is welcome. 
+I put the link to my github page on here, because on the github.io page you can't see the screenshots. https://github.com/TessaJ1/Portfolio-Tessa-Jennen
